@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "7cruisers": {
+      "type": "http",
+      "url": "https://www.7cruisers.com/mcp"
+    }
+  }
+}

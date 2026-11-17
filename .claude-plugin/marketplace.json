@@ -1,0 +1,14 @@
+{
+  "name": "7cruisers",
+  "owner": { "name": "Pankaj Ojha", "email": "pankajojha@hotmail.com" },
+  "metadata": { "description": "Cruise search plugins from 7cruisers.com" },
+  "plugins": [
+    {
+      "name": "7cruisers",
+      "source": "./plugins/7cruisers",
+      "description": "Find Holland America Line and Seabourn sailings, compare stateroom fares and browse shore excursions, plus a directory of cruise lines worldwide.",
+      "category": "travel",
+      "homepage": "https://www.7cruisers.com"
+    }
+  ]
+}

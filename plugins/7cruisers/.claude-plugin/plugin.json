@@ -1,0 +1,10 @@
+{
+  "name": "7cruisers",
+  "version": "0.1.0",
+  "description": "Find Holland America Line and Seabourn sailings, compare stateroom fares and browse shore excursions, plus a directory of cruise lines worldwide.",
+  "author": { "name": "Pankaj Ojha", "email": "pankajojha@hotmail.com", "url": "https://www.7cruisers.com" },
+  "homepage": "https://www.7cruisers.com/docs/",
+  "repository": "https://github.com/pankajojha/7cruisers-claude-plugin",
+  "license": "MIT",
+  "keywords": ["cruise", "travel", "mcp", "seabourn", "holland america"]
+}
